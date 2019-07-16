@@ -1,0 +1,4 @@
+G:\VS2017\MVPLight.WinForm\MVPLight.Core\bin\Debug\MVPLight.Core.dll
+G:\VS2017\MVPLight.WinForm\MVPLight.Core\bin\Debug\MVPLight.Core.pdb
+G:\VS2017\MVPLight.WinForm\MVPLight.Core\obj\Debug\MVPLight.Core.dll
+G:\VS2017\MVPLight.WinForm\MVPLight.Core\obj\Debug\MVPLight.Core.pdb

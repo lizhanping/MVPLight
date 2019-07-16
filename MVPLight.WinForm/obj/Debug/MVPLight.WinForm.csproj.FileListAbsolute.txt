@@ -1,0 +1,12 @@
+G:\VS2017\MVPLight.WinForm\MVPLight.WinForm\obj\Debug\MVPLight.WinForm.csprojResolveAssemblyReference.cache
+G:\VS2017\MVPLight.WinForm\MVPLight.WinForm\obj\Debug\MVPLight.WinForm.MainForm.resources
+G:\VS2017\MVPLight.WinForm\MVPLight.WinForm\obj\Debug\MVPLight.WinForm.Properties.Resources.resources
+G:\VS2017\MVPLight.WinForm\MVPLight.WinForm\obj\Debug\MVPLight.WinForm.csproj.GenerateResource.Cache
+G:\VS2017\MVPLight.WinForm\MVPLight.WinForm\bin\Debug\MVPLight.WinForm.exe
+G:\VS2017\MVPLight.WinForm\MVPLight.WinForm\bin\Debug\MVPLight.WinForm.pdb
+G:\VS2017\MVPLight.WinForm\MVPLight.WinForm\bin\Debug\MVPLight.Core.dll
+G:\VS2017\MVPLight.WinForm\MVPLight.WinForm\bin\Debug\MVPLight.Core.pdb
+G:\VS2017\MVPLight.WinForm\MVPLight.WinForm\obj\Debug\MVPLight.WinForm.exe
+G:\VS2017\MVPLight.WinForm\MVPLight.WinForm\obj\Debug\MVPLight.WinForm.pdb
+G:\VS2017\MVPLight\MVPLight.WinForm\obj\Debug\MVPLight.WinForm.exe
+G:\VS2017\MVPLight\MVPLight.WinForm\obj\Debug\MVPLight.WinForm.pdb
